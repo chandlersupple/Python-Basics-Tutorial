@@ -1,3 +1,1 @@
-Python Basics Tutorial by Chandler Supple
-
-http://jupyter.org/try
+Python Basics Tutorial by Chandler Supple (http://jupyter.org/try)
