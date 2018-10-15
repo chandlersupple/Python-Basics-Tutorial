@@ -1,5 +1,4 @@
 Python Basics Tutorial by Chandler Supple
-
 Lessons will be added each week and will be covered during club meetings.
 
 Go to http://jupyter.org/try and select 'Try Jupyter with Python'.
